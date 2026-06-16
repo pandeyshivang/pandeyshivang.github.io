@@ -30,7 +30,7 @@ const MOCK_ANSWERS = {
   "experience": "Shivang has 9+ years of experience. He is currently a Senior iOS Developer at Ascendion (August 2024 - Present), working on the loanDepot FinTech app. Previously, he worked at DMI (March 2020 - August 2024) on projects like the London Heathrow Airport app, upGrad, and DSM-5-TR.",
   "projects": "Key projects in Shivang's portfolio include:\n- **loanDepot Mobile App** (FinTech)\n- **LHR London Heathrow Airport App** (Travel/Maps)\n- **upGrad Learning App** (EdTech)\n- **DSM-5-TR® Diagnostic Criteria** (Healthcare)\n- **ERC20 Wallet & CryptCoin** (Blockchain)",
   "contact": "You can contact Shivang Pandey via email at shivang.pandey.dev@gmail.com or by phone at +91-9717779622. His LinkedIn is linkedin.com/in/shivang-pandey-dev and GitHub is github.com/pandeyshivang.",
-  "resume": "You can view Shivang's resume directly at https://bit.ly/4fAmx3V"
+  "resume": "You can view Shivang's resume directly at https://docs.google.com/document/d/1uXre0GSEdaMbVTZMQM-3qb9vHKEf6NxZ/"
 };
 
 // 1. Initialize API Clients if keys are present
@@ -179,7 +179,7 @@ app.post('/api/chat', async (req, res) => {
 
     // If both databases are unconfigured or empty, fallback to simple prompt engineering using basic cv metadata
     if (!vectorContext && !graphContext) {
-      vectorContext = `Shivang Pandey is a Senior iOS Developer with 9+ years of experience. Stack: Swift, SwiftUI, UIKit, Combine, Objective-C, KMP. He worked at Ascendion (2024-Present) on loanDepot app, and DMI (2020-2024) on Heathrow App, upGrad, and DSM-5-TR. CV link is https://bit.ly/4fAmx3V.`;
+      vectorContext = `Shivang Pandey is a Senior iOS Developer with 9+ years of experience. Stack: Swift, SwiftUI, UIKit, Combine, Objective-C, KMP. He worked at Ascendion (2024-Present) on loanDepot app, and DMI (2020-2024) on Heathrow App, upGrad, and DSM-5-TR. CV link is https://docs.google.com/document/d/1uXre0GSEdaMbVTZMQM-3qb9vHKEf6NxZ/.`;
     }
 
     // C. Invoke LangChain Orchestration

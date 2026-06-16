@@ -222,7 +222,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         if (lower.includes('resume') || lower.includes('cv') || lower.includes('pdf')) {
-            return `You can view and download Shivang Pandey's official resume directly at: [https://bit.ly/4fAmx3V](https://bit.ly/4fAmx3V).`;
+            return `You can view and download Shivang Pandey's official resume directly at: [https://docs.google.com/document/d/1uXre0GSEdaMbVTZMQM-3qb9vHKEf6NxZ/](https://docs.google.com/document/d/1uXre0GSEdaMbVTZMQM-3qb9vHKEf6NxZ/).`;
         }
 
         return `I am currently running in demo mode since the backend RAG database and servers are not connected. I can share details on Shivang's **experience**, **skills**, **projects**, **contact** info, or provide his **resume** link!`;
