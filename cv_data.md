@@ -4,7 +4,7 @@
 - **Location**: India (Remote / Global)
 - **Email**: shivang.pandey.dev@gmail.com / shivangpandey@rediffmail.com
 - **Phone**: +91-9717779622
-- **LinkedIn**: https://www.linkedin.com/in/shivang-pandey-dev
+- **LinkedIn**: https://www.linkedin.com/in/shivang-pandey-a76174b4/
 - **GitHub**: https://github.com/pandeyshivang
 - **Work Status**: Open to Work / Immediate Joiner
 

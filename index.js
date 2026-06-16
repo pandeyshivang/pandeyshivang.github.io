@@ -216,7 +216,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (lower.includes('contact') || lower.includes('email') || lower.includes('phone') || lower.includes('touch') || lower.includes('reach')) {
             return `You can get in touch with Shivang Pandey through:
 - **Email**: shivang.pandey.dev@gmail.com
-- **LinkedIn**: [linkedin.com/in/shivang-pandey-dev](https://www.linkedin.com/in/shivang-pandey-dev)
+- **LinkedIn**: [linkedin.com/in/shivang-pandey-a76174b4/](https://www.linkedin.com/in/shivang-pandey-a76174b4/)
 - **Phone**: +91-9717779622
 - **GitHub**: [github.com/pandeyshivang](https://github.com/pandeyshivang)`;
         }

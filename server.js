@@ -29,7 +29,7 @@ const MOCK_ANSWERS = {
   "skills": "Shivang Pandey's core iOS stack includes Swift 5.10/6, SwiftUI, UIKit, and Objective-C. He is also skilled in Combine, RxSwift, Core Data, Realm, Kotlin Multiplatform (KMP), GraphQL, and CI/CD tools like Fastlane and GitHub Actions.",
   "experience": "Shivang has 9+ years of experience. He is currently a Senior iOS Developer at Ascendion (August 2024 - Present), working on the loanDepot FinTech app. Previously, he worked at DMI (March 2020 - August 2024) on projects like the London Heathrow Airport app, upGrad, and DSM-5-TR.",
   "projects": "Key projects in Shivang's portfolio include:\n- **loanDepot Mobile App** (FinTech)\n- **LHR London Heathrow Airport App** (Travel/Maps)\n- **upGrad Learning App** (EdTech)\n- **DSM-5-TR® Diagnostic Criteria** (Healthcare)\n- **ERC20 Wallet & CryptCoin** (Blockchain)",
-  "contact": "You can contact Shivang Pandey via email at shivang.pandey.dev@gmail.com or by phone at +91-9717779622. His LinkedIn is linkedin.com/in/shivang-pandey-dev and GitHub is github.com/pandeyshivang.",
+  "contact": "You can contact Shivang Pandey via email at shivang.pandey.dev@gmail.com or by phone at +91-9717779622. His LinkedIn is linkedin.com/in/shivang-pandey-a76174b4/ and GitHub is github.com/pandeyshivang.",
   "resume": "You can view Shivang's resume directly at https://docs.google.com/document/d/1uXre0GSEdaMbVTZMQM-3qb9vHKEf6NxZ/"
 };
 

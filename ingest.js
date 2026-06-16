@@ -129,7 +129,7 @@ async function runIngestion() {
       // Define standard Cypher statements to insert nodes & relationships
       const cypherStatements = [
         // Create Shivang
-        `CREATE (p:Person {name: "Shivang Pandey", title: "Senior iOS Engineer", email: "shivang.pandey.dev@gmail.com", phone: "+91-9717779622", linkedin: "https://www.linkedin.com/in/shivang-pandey-dev", github: "https://github.com/pandeyshivang"})`,
+        `CREATE (p:Person {name: "Shivang Pandey", title: "Senior iOS Engineer", email: "shivang.pandey.dev@gmail.com", phone: "+91-9717779622", linkedin: "https://www.linkedin.com/in/shivang-pandey-a76174b4/", github: "https://github.com/pandeyshivang"})`,
         
         // Companies
         `CREATE (c1:Company {name: "Ascendion Engineering Private Limited", industry: "FinTech / Mortgage"})`,
